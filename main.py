@@ -3,3 +3,6 @@ def testAdd():
 
 def first_dev():
     return 42 
+
+def stage_avance():
+    return "j avance"
