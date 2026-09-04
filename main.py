@@ -3,3 +3,6 @@ def testAdd():
 
 def first_dev():
     return 42 
+
+def main_avance():
+    return "main avance"
