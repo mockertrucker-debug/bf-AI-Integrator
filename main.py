@@ -11,6 +11,7 @@ def ajout_conflit_dev():
     return True
 
 def ciirecction_main():
+    print("good bye")
     return True
 
 def pacth():
