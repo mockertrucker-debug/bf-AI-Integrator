@@ -6,3 +6,9 @@ def first_dev():
 
 def main_avance():
     return "j avance"
+
+def ciirecction_main():
+    return True
+
+def pacth():
+    retrun True
