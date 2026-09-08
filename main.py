@@ -11,6 +11,8 @@ def ajout_conflit_dev():
     return True
 
 def ciirecction_main():
+    print("good bye")
+    # Old conflit ici
     print('Probelelelelelem')
     return True
 
