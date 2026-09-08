@@ -7,6 +7,9 @@ def first_dev():
 def main_avance():
     return "j avance"
 
+def ajout_conflit_dev():
+    return True
+
 def ciirecction_main():
     return True
 
