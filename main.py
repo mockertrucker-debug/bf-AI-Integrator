@@ -16,3 +16,6 @@ def pacth():
 
 def untsabke_funciotn2():
     retrun True
+
+def remote_exampe_1():
+    return True
